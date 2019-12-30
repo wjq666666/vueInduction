@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <div>This is home page</div>
+    <div>再过两天就要2020年</div>
   </div>
 </template>
 
